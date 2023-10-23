@@ -15,7 +15,6 @@ def get_positive_float_input(prompt):
 def get_square(a, b):
     return a * b
 
-
 if __name__ == '__main__':
 
     #Получаем ширину и высоту от пользователя с использованием функции
